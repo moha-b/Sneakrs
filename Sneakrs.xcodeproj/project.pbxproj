@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		038ECF0C2E7C1B5D00B55EC6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 038ECF0B2E7C1B4100B55EC6 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		038ECEEC2E7C17C600B55EC6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		038ECEDE2E7C17C500B55EC6 /* Sneakrs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sneakrs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		038ECEEB2E7C17C600B55EC6 /* SneakrsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SneakrsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		038ECEF52E7C17C600B55EC6 /* SneakrsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SneakrsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		038ECF0B2E7C1B4100B55EC6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		038ECED52E7C17C500B55EC6 = {
 			isa = PBXGroup;
 			children = (
+				038ECF0B2E7C1B4100B55EC6 /* README.md */,
 				038ECEE02E7C17C500B55EC6 /* Sneakrs */,
 				038ECEEE2E7C17C600B55EC6 /* SneakrsTests */,
 				038ECEF82E7C17C600B55EC6 /* SneakrsUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				038ECF0C2E7C1B5D00B55EC6 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

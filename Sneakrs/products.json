@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Air Max 270",
+        "brand": "Nike",
+        "brandImage": "nike",
+        "price": 149.99,
+        "description": "The Nike Air Max 270 delivers visible cushioning under every step with a bold modern design.",
+        "thumbnail": "image",
+        "images": ["image", "image 1", "image 3", "image 4"],
+        "colors": ["Black", "White", "Red"],
+        "sizes": [7, 8, 9, 10, 11, 12]
+    },
+    {
+        "id": 2,
+        "name": "Ultraboost 22",
+        "brand": "Adidas",
+        "brandImage": "adidas",
+        "price": 179.99,
+        "description": "The Adidas Ultraboost 22 combines comfort and performance with responsive Boost cushioning.",
+        "thumbnail": "image 1",
+        "images": ["image 1", "image", "image 3", "image 4"],
+        "colors": ["Core Black", "Cloud White", "Solar Yellow"],
+        "sizes": [6, 7, 8, 9, 10, 11, 12, 13]
+    },
+    {
+        "id": 3,
+        "name": "RS-X3 Puzzle",
+        "brand": "Puma",
+        "brandImage": "puma",
+        "price": 109.99,
+        "description": "Bold and chunky, the Puma RS-X3 Puzzle sneakers feature layered materials and playful colors.",
+        "thumbnail": "image 3",
+        "images": ["image 3", "image", "image 1", "image 4"],
+        "colors": ["Gray", "Blue", "Pink"],
+        "sizes": [6, 7, 8, 9, 10, 11]
+    },
+    {
+        "id": 4,
+        "name": "Air Jordan 1 Mid",
+        "brand": "Jordan",
+        "brandImage": "jordan",
+        "price": 129.99,
+        "description": "The Air Jordan 1 Mid maintains the timeless look and heritage of the original with a fresh twist.",
+        "thumbnail": "image 4",
+        "images": ["image 4", "image", "image 1", "image 3"],
+        "colors": ["Black", "White", "Royal Blue"],
+        "sizes": [7, 8, 9, 10, 11, 12, 13]
+    },
+    {
+        "id": 5,
+        "name": "Air Force 1 Low",
+        "brand": "Nike",
+        "brandImage": "nike",
+        "price": 99.99,
+        "description": "Classic and clean, the Nike Air Force 1 Low is a timeless sneaker icon.",
+        "thumbnail": "image",
+        "images": ["image", "image 1", "image 3"],
+        "colors": ["White", "Black"],
+        "sizes": [6, 7, 8, 9, 10, 11, 12]
+    },
+    {
+        "id": 6,
+        "name": "NMD R1",
+        "brand": "Adidas",
+        "brandImage": "adidas",
+        "price": 139.99,
+        "description": "Adidas NMD R1 blends modern street style with running-inspired design.",
+        "thumbnail": "image 1",
+        "images": ["image 1", "image 3", "image 4"],
+        "colors": ["Black", "Gray", "Mint Green"],
+        "sizes": [7, 8, 9, 10, 11, 12]
+    },
+    {
+        "id": 7,
+        "name": "Suede Classic",
+        "brand": "Puma",
+        "brandImage": "puma",
+        "price": 89.99,
+        "description": "The Puma Suede Classic is a true streetwear staple, delivering vintage vibes with a modern touch.",
+        "thumbnail": "image 3",
+        "images": ["image 3", "image 1", "image 4"],
+        "colors": ["Navy", "Burgundy", "Beige"],
+        "sizes": [6, 7, 8, 9, 10, 11, 12]
+    },
+    {
+        "id": 8,
+        "name": "Jordan Retro 4",
+        "brand": "Jordan",
+        "brandImage": "jordan",
+        "price": 199.99,
+        "description": "The Jordan Retro 4 revives a legendary silhouette with premium details and bold style.",
+        "thumbnail": "image 4",
+        "images": ["image 4", "image", "image 1"],
+        "colors": ["Black/Red", "White/Gray"],
+        "sizes": [7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+        "id": 9,
+        "name": "Nike Blazer Mid '77",
+        "brand": "Nike",
+        "brandImage": "nike",
+        "price": 109.99,
+        "description": "Retro basketball vibes meet modern comfort in the Nike Blazer Mid '77.",
+        "thumbnail": "image",
+        "images": ["image", "image 3", "image 1"],
+        "colors": ["White/Black", "Sail/Green"],
+        "sizes": [6, 7, 8, 9, 10, 11, 12]
+    },
+    {
+        "id": 10,
+        "name": "Adidas Superstar",
+        "brand": "Adidas",
+        "brandImage": "adidas",
+        "price": 89.99,
+        "description": "An icon since the '70s, the Adidas Superstar remains a must-have sneaker with its shell-toe design.",
+        "thumbnail": "image 1",
+        "images": ["image 1", "image 4", "image 3"],
+        "colors": ["White/Black", "White/Gold"],
+        "sizes": [6, 7, 8, 9, 10, 11, 12]
+    }
+]
+
