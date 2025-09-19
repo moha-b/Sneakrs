@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Nike",
+        "logo": "nike"
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "logo": "adidas"
+    },
+    {
+        "id": 3,
+        "name": "Puma",
+        "logo": "puma"
+    },
+    {
+        "id": 4,
+        "name": "Jordan",
+        "logo": "jordan"
+    }
+]
+
