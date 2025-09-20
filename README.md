@@ -2,7 +2,7 @@
 
 A modern iOS sneaker e-commerce app built with SwiftUI, featuring a clean and minimalist design for browsing and purchasing sneakers from top brands.
 
-![Sneakrs App Screenshots](Screenshot%202025-09-20%20at%2010.52.10%20AM.png)
+![Sneakrs App Screenshots](https://github.com/moha-b/Sneakrs/blob/main/Screenshot%202025-09-20%20at%2010.52.10%E2%80%AFAM.png?raw=true)
 
 ## Features
 
