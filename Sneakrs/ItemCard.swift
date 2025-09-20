@@ -10,21 +10,24 @@ import SwiftUI
 struct ItemCard: View {
     let product: Product
     var body: some View {
-        VStack {
-            ZStack(alignment: .bottomTrailing) {
-                Image(product.thumbnail)
-                Image(product.brandImage)
-                    .resizable()
-                    .scaledToFit()
-                    .frame(width: 47, height: 30)
+        NavigationLink(destination: ProductDetails(product: product)) {
+            VStack {
+                ZStack(alignment: .bottomTrailing) {
+                    Image(product.thumbnail)
+                    Image(product.brandImage)
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 47, height: 30)
+                }
+                .frame(width:142,height: 150)
+                .background(Color(.systemGray6))
+                .cornerRadius(8)
+                
+                Text(product.name)
+                    .font(.caption)
+                    .lineLimit(1)
+                    .foregroundColor(.black)
             }
-            .frame(width:142,height: 150)
-            .background(Color(.systemGray6))
-            .cornerRadius(8)
-            
-            Text(product.name)
-                .font(.caption)
-                .lineLimit(1)
         }
     }
 }
