@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		038ECF0C2E7C1B5D00B55EC6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 038ECF0B2E7C1B4100B55EC6 /* README.md */; };
+		038ECF372E7E94B700B55EC6 /* Screenshot 2025-09-20 at 10.52.10 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 038ECF362E7E94B700B55EC6 /* Screenshot 2025-09-20 at 10.52.10 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		038ECEEB2E7C17C600B55EC6 /* SneakrsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SneakrsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		038ECEF52E7C17C600B55EC6 /* SneakrsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SneakrsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		038ECF0B2E7C1B4100B55EC6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		038ECF362E7E94B700B55EC6 /* Screenshot 2025-09-20 at 10.52.10 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2025-09-20 at 10.52.10 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,6 +87,7 @@
 				038ECEEE2E7C17C600B55EC6 /* SneakrsTests */,
 				038ECEF82E7C17C600B55EC6 /* SneakrsUITests */,
 				038ECEDF2E7C17C500B55EC6 /* Products */,
+				038ECF362E7E94B700B55EC6 /* Screenshot 2025-09-20 at 10.52.10 AM.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -219,6 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				038ECF0C2E7C1B5D00B55EC6 /* README.md in Resources */,
+				038ECF372E7E94B700B55EC6 /* Screenshot 2025-09-20 at 10.52.10 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
